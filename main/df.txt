@@ -1,0 +1,4 @@
+Step 1: testing the git clone 
+Step 2: git login 
+Step 3: copy the clone URL 
+Step 4: git clone
